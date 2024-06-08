@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Super Admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "active": "0"
+    },
+    {
+      "id": "111",
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "43",
+      "name": "Anu Karun",
+      "email": "anu@gmail",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "name": "Anu m",
+      "email": "anu@gmail",
+      "active": "1"
+    },
+    {
+      "id": "26",
+      "name": "John k",
+      "email": "hrthh@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "27",
+      "name": "Bhavya",
+      "email": "hrthh@gmail.com",
+      "active": "1"
+    }
+  ]
+}
